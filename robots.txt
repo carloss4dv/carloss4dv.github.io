@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://carloss4dv.github.io/al-folio/sitemap.xml
+Sitemap: https://carloss4dv.github.io/sitemap.xml
